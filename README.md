@@ -28,8 +28,9 @@ I am a **Cybersecurity Enthusiast** currently focused on mastering **Security Op
 
 ## 📈 Platform Achievements
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=The-captive-king-SC&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/The.Captive.king.png" alt="TryHackMe Badge" height="150" />
+  <a href="https://tryhackme.com/p/The.Captive.king">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/The.Captive.king.png" alt="TryHackMe Badge" />
+  </a>
 </p>
 
 ---
