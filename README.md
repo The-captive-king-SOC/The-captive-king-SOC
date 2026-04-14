@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a **Cybersecurity Enthusiast** currently focused on mastering **Security Operations (SOC L1)**. With a solid foundational background in **Penetration Testing**, I leverage my understanding of offensive tactics to build stronger defensive strategies. I am a top-ranked learner on **TryHackMe**, where I continuously sharpen my skills in threat detection and incident response.
 
-* 🎓 **English Proficiency:** C1 Level (Advanced)
+* 🎓 **English Proficiency:** C1 Level 
 * 🏆 **TryHackMe Global Rank:** Top 2% | [0xC][GURU]
 * 🛠️ **Learning Path:** Currently deepening my expertise in SOC workflows, Log Analysis, and Python for Security Automation.
 
